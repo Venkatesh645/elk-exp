@@ -1,0 +1,24 @@
+2024-06-16 10:05:01,123 INFO  [app:12345] - Server started on port 8000
+2024-06-16 10:05:03,456 INFO  [app:12345] - GET /api/v1/users 200 OK
+2024-06-16 10:05:04,789 INFO  [app:12345] - POST /api/v1/users 201 Created
+2024-06-16 10:05:05,012 INFO  [app:12345] - GET /api/v1/users/1 200 OK
+2024-06-16 10:05:06,345 INFO  [app:12345] - PUT /api/v1/users/1 200 OK
+2024-06-16 10:05:07,678 INFO  [app:12345] - DELETE /api/v1/users/1 204 No Content
+2024-06-16 10:05:08,901 ERROR [app:12345] - GET /api/v1/users/999 404 Not Found
+2024-06-16 10:05:09,234 INFO  [app:12345] - GET /api/v1/products 200 OK
+2024-06-16 10:05:10,567 WARN  [app:12345] - GET /api/v1/products 429 Too Many Requests
+2024-06-16 10:05:11,890 INFO  [app:12345] - Server stopped
+2024-06-16 10:05:11,890 INFO  [app:12345] - Server stopped
+2024-06-16 10:05:15,456 INFO  [app:12345] - GET /api/v1/users 200 OK
+2024-06-16 10:05:16,456 INFO  [app:12345] - GET /api/v1/users 201
+2024-06-16 10:05:16,456 INFO  [app:12345] - GET /api/v1/devices 201
+2024-06-16 10:05:16,456 INFO  [app:12345] - GET /api/v1/devices/1 201
+2024-06-16 10:05:16,456 INFO  [app:12345] - GET /api/v1/devices/2 201
+2024-06-16 10:05:16,456 INFO  [app:12345] - GET /api/v1/devices/3 201
+
+
+
+
+
+
+ OK
