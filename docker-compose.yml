@@ -35,6 +35,7 @@ services:
       # - ./logstash/config/logstash.yml:/usr/share/logstash/config/logstash.yml:ro
       - ./logstash/pipeline:/usr/share/logstash/pipeline:ro
       - ./logs:/sample
+      - ./logdb:/logdb
     depends_on:
       - elasticsearch
 

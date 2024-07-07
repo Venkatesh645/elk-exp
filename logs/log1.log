@@ -1,0 +1,25 @@
+2024-06-19 10:05:01,123 INFO  [app:12345] - Server started on port 8000
+2024-06-20 10:05:03,456 INFO  [app:12345] - GET /api/v1/users 200 OK
+2024-06-21 10:05:04,789 INFO  [app:12345] - POST /api/v1/users 201 Created
+2024-06-22 10:05:05,012 INFO  [app:12345] - GET /api/v1/users/1 200 OK
+2024-06-23 10:05:06,345 INFO  [app:12345] - PUT /api/v1/users/1 200 OK
+2024-06-24 10:05:07,678 INFO  [app:12345] - DELETE /api/v1/users/1 204 No Content
+2024-06-25 10:05:08,901 ERROR [app:12345] - GET /api/v1/users/999 404 Not Found
+2024-06-26 10:05:09,234 INFO  [app:12345] - GET /api/v1/products 200 OK
+2024-06-27 10:05:09,234 INFO  [app:12345] - GET /api/v1/products 200 OK
+2024-06-28 10:05:09,234 INFO  [app:12345] - GET /api/v1/products 200 OK
+2024-06-30 10:05:09,234 INFO  [app:12345] - POST /api/v1/products 201 OK
+2024-06-30 10:05:09,234 DEBUG  [app:12345] - POST /api/v1/products 201 OK
+2024-07-05 10:05:09,234 ERROR  [app:12345] - POST /api/v1/products 200 OK
+2024-07-06 10:05:09,234 ERROR  [app:12345] - POST /api/v1/products 200 OK
+2024-07-08 10:05:10,234 ERROR [app:12345] - GET /api/v1/devices 200 OK
+2024-07-08 10:05:10,234 INFO [app:12345] - GET /api/v1/devices 200 OK
+2024-06-30 10:05:09,500 INFO  [app:12345] - POST /api/v1/products 201 OK
+2024-06-30 11:05:09,500 INFO  [app:12345] - POST /api/v1/products 201 OK
+2024-07-09 10:05:10,234 INFO [app:12345] - GET /api/v1/devices/2 200 OK
+2024-09-09 10:05:10,234 INFO [app:12345] - GET /api/v1/devices/2 200 OK
+
+
+
+
+

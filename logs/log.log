@@ -19,3 +19,9 @@
 2024-06-16 10:05:16,456 INFO  [app:12345] - GET /api/v1/devices/4 201 OK
 2024-06-17 10:05:16,456 INFO  [app:12345] - GET /api/v1/devices/5 201 OK
 2024-06-18 10:05:16,456 INFO  [app:12345] - GET /api/v1/devices/6 200 OK
+2024-06-29 10:05:16,456 INFO  [app:12345] - GET /api/v1/devices/6 200 OK
+2024-07-01 10:05:16,456 ERROR  [app:12345] - GET /api/v1/devices/6 200 OK
+2024-07-01 10:05:16,500 ERROR  [app:12345] - GET /api/v1/devices/6 200 OK
+2024-07-03 10:05:16,500 ERROR  [app:12345] - GET /api/v1/devices/8 200 OK
+2024-07-03 12:05:16,500 ERROR  [app:12345] - GET /api/v1/devices/9 200 OK
+
