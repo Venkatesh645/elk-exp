@@ -1,0 +1,3 @@
+#working grok pattern
+
+%{TIMESTAMP_ISO8601:timestamp} %{LOGLEVEL:loglevel} %{DATA:app_info} - %{WORD:http_method} %{URIPATH:request} %{NUMBER:response_code} %{WORD:response_status}

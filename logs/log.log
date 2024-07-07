@@ -10,15 +10,12 @@
 2024-06-16 10:05:11,890 INFO  [app:12345] - Server stopped
 2024-06-16 10:05:11,890 INFO  [app:12345] - Server stopped
 2024-06-16 10:05:15,456 INFO  [app:12345] - GET /api/v1/users 200 OK
-2024-06-16 10:05:16,456 INFO  [app:12345] - GET /api/v1/users 201
-2024-06-16 10:05:16,456 INFO  [app:12345] - GET /api/v1/devices 201
-2024-06-16 10:05:16,456 INFO  [app:12345] - GET /api/v1/devices/1 201
-2024-06-16 10:05:16,456 INFO  [app:12345] - GET /api/v1/devices/2 201
-2024-06-16 10:05:16,456 INFO  [app:12345] - GET /api/v1/devices/3 201
-
-
-
-
-
-
- OK
+2024-06-16 10:05:16,456 INFO  [app:12345] - GET /api/v1/users 201 OK
+2024-06-16 10:05:16,456 INFO  [app:12345] - GET /api/v1/devices 201 OK
+2024-06-16 10:05:16,456 INFO  [app:12345] - GET /api/v1/devices/1 201 OK
+2024-06-16 10:05:16,456 INFO  [app:12345] - GET /api/v1/devices/2 201 OK
+2024-06-16 10:05:16,456 INFO  [app:12345] - GET /api/v1/devices/3 201 OK
+2024-06-16 10:05:16,456 INFO  [app:12345] - GET /api/v1/devices/3 201 OK
+2024-06-16 10:05:16,456 INFO  [app:12345] - GET /api/v1/devices/4 201 OK
+2024-06-17 10:05:16,456 INFO  [app:12345] - GET /api/v1/devices/5 201 OK
+2024-06-18 10:05:16,456 INFO  [app:12345] - GET /api/v1/devices/6 200 OK
